@@ -31,6 +31,7 @@ mono_crash.*
 [Aa][Rr][Mm]64/
 bld/
 [Bb]in/*
+[Bb]uild/
 ![Oo]bj/
 [Ll]og/
 [Ll]ogs/
@@ -358,7 +359,3 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
-OvenEditor/OvenEditor.vcxproj.filters
-OvenEngine/OvenEngine.vcxproj.filters
-/ImGuiLib/ImGuiLib.vcxproj.user
-csd3151-cs350-spatial-data-structures/sample-framework-csd-3151/build/
