@@ -3,12 +3,12 @@ Currently a simple 3D graphics engine with features such as .obj loading, primit
 # How to build the project
 Click on `run.bat` or using command prompt create a build folder in root and `cmake ..` in build folder directory
 
-###### things to note regarding building the project
-using run.bat takes longer as it also runs the `cmake --build` command
-if `cmake ..` command throws an error regarding version limits for glm import 
-    head into `build\_deps\glm-src\CMakeLists.txt` change `3.2` to `3.5` and try again 
-if cmake is unable to find git
-    add below lines of code to top of `CMakeLists.txt` and replace "file_path"s with your directory of git 
+#### things to note regarding building the project
+
+using run.bat takes longer as it also runs the `cmake --build` command 
+  
+if cmake is unable to find git 
+> add below lines of code to top of `CMakeLists.txt` and replace "file_path"s with your directory of git 
 ```
 set(GIT_EXECUTABLE "C:/Program Files/Git/cmd/git.exe" CACHE FILEPATH "C:/Program Files/Git/cmd/git.exe" FORCE)
 find_package(Git)
