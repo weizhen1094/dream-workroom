@@ -7,7 +7,7 @@ This file contains the definition of the BVHierarchy class.
 
 *//*__________________________________________________________________________*/
 
-#include <bvhierarchy.hpp>
+#include <cs350/bvhierarchy.hpp>
 #include <algorithm>
 #include <queue>
 /*                                                                   includes

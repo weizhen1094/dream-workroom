@@ -17,8 +17,8 @@ bounding volume construction functions and helper functions to merge bounding vo
 #include <Eigen/Dense>
 #include <Eigen/Geometry>
 #include <math.hpp>
-#include <intersectiontests.hpp> // check if point in sphere
-#include <buffer.hpp>
+#include <cs350/intersectiontests.hpp> // check if point in sphere
+#include <graphics/buffer.hpp>
 #include <components/transform.hpp> // updateBV()
 #include <ecs.hpp>  
 /*                                                                   includes

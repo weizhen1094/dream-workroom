@@ -7,8 +7,8 @@ This file contains the definition of the Octree class.
 
 *//*__________________________________________________________________________*/
 
-#include <octree.hpp>
-#include <intersectiontests.hpp>
+#include <cs350/octree.hpp>
+#include <cs350/intersectiontests.hpp>
 #include <components/material.hpp>
 #include <random>
 /*                                                                   includes

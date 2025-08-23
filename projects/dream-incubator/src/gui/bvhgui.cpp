@@ -8,7 +8,7 @@ This file contains the definitions of the BVHGUI GUIWindow class.
 *//*__________________________________________________________________________*/
 
 #include <gui/bvhgui.hpp>
-#include <bvhierarchy.hpp>
+#include <cs350/bvhierarchy.hpp>
 #include <components/renderable.hpp>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */

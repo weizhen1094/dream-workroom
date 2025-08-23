@@ -13,7 +13,7 @@
 #include <cstring>
 
 #include <GL/glew.h>
-#include <shader.hpp>
+#include <graphics/shader.hpp>
 
 #if USE_CSD3151_AUTOMATION == 1
  // This automation hook reads the shader from the submission tutorial's shader directory as a string literal.

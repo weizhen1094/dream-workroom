@@ -19,7 +19,7 @@
 #include <systems/render.hpp>
 #include <systems/movement.hpp>
 #include <systems/collision.hpp>
-#include <buffer.hpp>
+#include <graphics/buffer.hpp>
 
 /**
  * @brief Main function that sets up the OpenGL window and rendering loop.

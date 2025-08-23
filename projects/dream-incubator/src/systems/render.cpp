@@ -9,14 +9,14 @@ This file contains the declaration of the Render system class.
 
 #include <systems/render.hpp>
 #include <ecs.hpp>
-#include <shader.hpp>
+#include <graphics/shader.hpp>
 #include <components/camera.hpp>
 #include <components/light.hpp>
 #include <components/transform.hpp>
 #include <components/renderable.hpp>
 #include <components/material.hpp>
 #include <components/boundingvolume.hpp>
-#include <bvhierarchy.hpp>
+#include <cs350/bvhierarchy.hpp>
 #include <filesystem>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */

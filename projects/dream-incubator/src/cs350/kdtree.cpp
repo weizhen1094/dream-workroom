@@ -7,8 +7,8 @@ This file contains the definition of the KdTree class.
 
 *//*__________________________________________________________________________*/
 
-#include <kdtree.hpp>
-#include <intersectiontests.hpp>
+#include <cs350/kdtree.hpp>
+#include <cs350/intersectiontests.hpp>
 #include <components/material.hpp>
 #include <random>
 /*                                                                   includes

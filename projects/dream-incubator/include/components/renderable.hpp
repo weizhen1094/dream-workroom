@@ -14,7 +14,7 @@ for generating core primitive geometries and loading models using assimp.
 ----------------------------------------------------------------------------- */
 
 #include <memory>
-#include <buffer.hpp>
+#include <graphics/buffer.hpp>
     #include <assimp/Importer.hpp> // TODO: remove after load obj class 
     #include <assimp/scene.h>          
     #include <assimp/postprocess.h> 

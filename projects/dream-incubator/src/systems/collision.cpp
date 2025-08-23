@@ -8,7 +8,7 @@ This file contains the definition of the Collision system class.
 *//*__________________________________________________________________________*/
 
 #include <systems/collision.hpp>
-#include <intersectiontests.hpp>
+#include <cs350/intersectiontests.hpp>
 #include <ecs.hpp>
 #include <components/transform.hpp>
 #include <components/renderable.hpp>

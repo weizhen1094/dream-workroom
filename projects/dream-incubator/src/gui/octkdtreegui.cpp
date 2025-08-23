@@ -14,8 +14,8 @@ This file contains the definitions of the OctKDTreeGUI GUIWindow class.
 #include <components/renderable.hpp>
 #include <components/boundingvolume.hpp>
 #include <components/material.hpp>
-#include <octree.hpp>
-#include <kdtree.hpp>
+#include <cs350/octree.hpp>
+#include <cs350/kdtree.hpp>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */
 

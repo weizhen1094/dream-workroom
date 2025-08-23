@@ -17,7 +17,7 @@ This file contains the declaration of the KdTree class.
 #include <isingleton.hpp>
 #include <ecs.hpp>
 #include <components/boundingvolume.hpp>
-#include <bvhierarchy.hpp>
+#include <cs350/bvhierarchy.hpp>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */
 

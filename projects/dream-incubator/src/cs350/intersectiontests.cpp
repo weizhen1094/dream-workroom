@@ -7,7 +7,7 @@ This file contains the definition for intersection test functions.
 
 *//*__________________________________________________________________________*/
 
-#include <intersectiontests.hpp>
+#include <cs350/intersectiontests.hpp>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */
 

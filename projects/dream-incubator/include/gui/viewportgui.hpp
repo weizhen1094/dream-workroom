@@ -13,7 +13,7 @@ This file contains the declaration of the ViewportGUI class.
 ----------------------------------------------------------------------------- */
 
 #include <gui/iguiwindow.hpp>
-#include <buffer.hpp>
+#include <graphics/buffer.hpp>
 #include <ecs.hpp>
 /*                                                                   includes
 ----------------------------------------------------------------------------- */
